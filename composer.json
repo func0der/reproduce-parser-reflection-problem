@@ -1,0 +1,7 @@
+{
+    "name": "func0der/reproduce-parser-reflection-problem",
+    "require": {
+        "goaop/parser-reflection": "^2.1",
+        "doctrine/persistence": "^1.3"
+    }
+}
